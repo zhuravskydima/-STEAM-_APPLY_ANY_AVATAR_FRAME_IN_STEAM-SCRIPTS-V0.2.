@@ -1,0 +1,20 @@
+//A script to extract the URL of a frame
+//This script retrieves the frame URL from an item on a Steam page.
+
+//Title: steam_frame.js
+
+//Paste this code into the URL
+//Code:
+
+javascript:(function() {
+const frameElement = document.querySelector('img._3fM0F85j3aWVzr4RJM9-eu');
+if (frameElement) {
+alert("Frame URL: " + frameElement.src);
+} else {
+alert("Frame element not found.");
+}
+})();
+
+//Or else
+
+javascript:(function() { const frameElement = document.querySelector('img._3fM0F85j3aWVzr4RJM9-eu'); if (frameElement) { alert("Frame URL: " + frameElement.src); } else { alert("Frame element not found."); }})();
