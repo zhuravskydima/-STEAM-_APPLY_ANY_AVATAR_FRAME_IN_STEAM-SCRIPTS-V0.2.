@@ -1,0 +1,30 @@
+//Script that adds a frame on the entered URL
+//This script adds a frame by the entered URL on the Steam profile page.
+
+//Title: steam_avatar.js
+
+//Paste this code into the URL
+//Code:
+
+javascript:(function() {
+const avatarContainer = document.querySelector('.playerAvatarAutoSizeInner');
+if (avatarContainer) {
+const avatarSrc = avatarContainer.querySelector('img').src;
+const frameSrc = prompt("Введите URL рамки:");
+
+avatarContainer.innerHTML = `
+<div class="profile_avatar_frame">
+<img src="${frameSrc}">
+</div>
+<img src="${avatarSrc}">
+`;
+
+console.log("Avatar block successfully replaced!");
+} else {
+console.log("Avatar container not found.");
+}
+})();
+
+//Or else
+
+javascript:(function() { const avatarContainer = document.querySelector('.playerAvatarAutoSizeInner'); if (avatarContainer) { const avatarSrc = avatarContainer.querySelector('img').src; const frameSrc = prompt("Введите URL рамки:"); avatarContainer.innerHTML = ` <div class="profile_avatar_frame"> <img src="${frameSrc}"> </div> <img src="${avatarSrc}"> `; console.log("Avatar block successfully replaced!"); } else { console.log("Avatar container not found."); }})();
