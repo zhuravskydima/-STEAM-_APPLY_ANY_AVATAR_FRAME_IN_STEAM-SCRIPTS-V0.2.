@@ -1,0 +1,45 @@
+(MANUAL) - ENG(ENGLISH)
+//Using a bookmark to get the URL of the frame:
+
+Go to the item page in the Steam shop that contains the frame.
+Click on the ‘steam_frame.js’ tab.
+In the pop-up window that appears, copy the URL of the frame to be displayed.
+
+
+//Using bookmarks to add a frame:
+Go to your Steam profile page.
+Click on the ‘steam_avatar.js’ tab.
+Paste the previously copied frame URL into the dialogue box that appears.
+Click ‘OK’ and your avatar will have a frame!
+
+///////////////////////////////////////////////////////////////////////////////
+
+(РУКОВОДСТВО) - RU(РУ)
+//Использование закладки для получения URL рамки:
+
+Перейдите на страницу предмета в магазине Steam, который содержит рамку.
+Нажмите на закладку "steam_frame.js".
+В появившемся всплывающем окне скопируйте URL рамки, который будет отображаться.
+
+
+//Использование закладок для добавления рамки:
+Перейдите на вашу профильную страницу Steam.
+Нажмите на закладку "steam_avatar.js".
+Вставьте ранее скопированный URL рамки в появившееся диалоговое окно.
+Нажмите "ОК", и ваша аватарка будет с рамкой!
+
+///////////////////////////////////////////////////////////////////////////////
+
+(КЕРІВНИЦТВО) - UA(УКР)
+//Використання закладки для отримання URL рамки:
+
+Перейдіть на сторінку предмета в магазині Steam, який містить рамку.
+Натисніть на закладку «steam_frame.js».
+У спливаючому вікні скопіюйте URL рамки, який буде відображатися.
+
+
+Використання закладок для додавання рамки:
+Перейдіть на вашу профільну сторінку Steam.
+Натисніть на закладку «steam_avatar.js».
+Вставте раніше скопійований URL рамки в діалогове вікно, що з'явиться.
+Натисніть «ОК», і ваша аватарка буде з рамкою!
